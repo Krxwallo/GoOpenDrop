@@ -20,3 +20,4 @@ keys/key_noenc.pem
 keys/validation_record.cms
 INBOX/
 OUTBOX/
+.idea/
